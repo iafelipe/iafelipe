@@ -1,5 +1,8 @@
-### Hi there 👋
+## Welcome to My GitHub Profile!
 
-My name is Igor. I'm interested in bioinformatics and data science.
+I'm Igor, a biologist transitioning into the world of coding and bioinformatics.
 
-- 📚 I’m currently working on [pysagem](https://github.com/iafelipe/pysagem)
+### Latest Project:
+[**pysagem**](https://github.com/iafelipe/pysagem): simulate and visualize biological invasions in dynamic landscapes.
+
+<img src=https://raw.githubusercontent.com/iafelipe/pysagem/main/assets/animation-example.gif width="500"/>
